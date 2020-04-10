@@ -1,4 +1,4 @@
-# CS174A-1A, Winter 2020, UCLA
+# CS174A-1A, SPRING 2020, UCLA
 
 @ Course materials of CS174A, discussion 1A, Winter 2020.
 
